@@ -51,6 +51,7 @@ external_components:
 i2c:
     sda: 21
     scl: 22
+    frequency: 400khz
     scan: true
 
 sensor:
